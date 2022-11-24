@@ -25,6 +25,7 @@ public class Main{
             return 2*recursion(n/2,false);
         } else {
             if(n%2==1) {
+
                 return 2*recursion(n/2,true);
             } else {
                 return 2*recursion(n / 2, true)-1;
