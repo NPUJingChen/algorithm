@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/2022算法竞赛.iml" filepath="$PROJECT_DIR$/.idea/2022算法竞赛.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OJ/OJ.iml" filepath="$PROJECT_DIR$/OJ/OJ.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ1/OJ1.iml" filepath="$PROJECT_DIR$/OJ/OJ1/OJ1.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ10/OJ10.iml" filepath="$PROJECT_DIR$/OJ/OJ10/OJ10.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ11/OJ11.iml" filepath="$PROJECT_DIR$/OJ/OJ11/OJ11.iml" />
@@ -43,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ48/OJ48.iml" filepath="$PROJECT_DIR$/OJ/OJ48/OJ48.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ49/OJ49.iml" filepath="$PROJECT_DIR$/OJ/OJ49/OJ49.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ5/OJ5.iml" filepath="$PROJECT_DIR$/OJ/OJ5/OJ5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OJ/OJ50/OJ50.iml" filepath="$PROJECT_DIR$/OJ/OJ50/OJ50.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ6/OJ6.iml" filepath="$PROJECT_DIR$/OJ/OJ6/OJ6.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ7/OJ7.iml" filepath="$PROJECT_DIR$/OJ/OJ7/OJ7.iml" />
       <module fileurl="file://$PROJECT_DIR$/OJ/OJ8/OJ8.iml" filepath="$PROJECT_DIR$/OJ/OJ8/OJ8.iml" />
