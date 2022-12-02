@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int max_length(int **dp, vector<vector<int>> &matrix, const int &i, const int &j) {
+int max_length(int **dp, vector<vector<int>> matrix, const int &i, const int &j) {
     if (dp[i][j] != 0) {
         return dp[i][j];
     }
